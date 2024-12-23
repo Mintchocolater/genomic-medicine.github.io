@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# genomic_medicine.github.io
 ====================
 
 Technologies this website uses:  
