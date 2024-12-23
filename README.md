@@ -1,5 +1,4 @@
 # genomic-medicine.github.io
-test
 ====================
 
 Technologies this website uses:  
